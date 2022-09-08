@@ -1,3 +1,49 @@
-.nav-letters {
+/* GENERAL SETTINGS */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* NAVEGATOR BAR */
+.nav-color {
     color: #A9A9B3;
+}
+
+.navbar-nav {
+    padding-right: 25%;
+    height: 50px;
+}
+
+.navbar-brand {
+    padding-left: 25%;
+}
+
+/* BODY PAGE */
+
+
+.full-screen {
+    min-height: 850px;
+}
+
+.body-content {
+    justify-content: center;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+.list-inline-item {
+    margin-top: 10px;
+    font-size: 30px;
+    color: #A9A9B3;
+}
+
+
+/* FOOTER PAGE */
+
+#footer {
+    height: 100px;
 }
